@@ -387,6 +387,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  logger:
+    dependency: "direct main"
+    description:
+      name: logger
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.0"
   logging:
     dependency: transitive
     description:
@@ -442,7 +449,7 @@ packages:
       path: "packages/news_repository"
       relative: true
     source: path
-    version: "1.0.0+1"
+    version: "0.0.0"
   node_preamble:
     dependency: transitive
     description:
@@ -569,6 +576,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.1"
+  retrofit:
+    dependency: transitive
+    description:
+      name: retrofit
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.1+1"
   rxdart:
     dependency: "direct main"
     description:
@@ -904,5 +918,5 @@ packages:
     source: hosted
     version: "3.1.1"
 sdks:
-  dart: ">=2.17.6 <3.0.0"
+  dart: ">=2.17.0 <3.0.0"
   flutter: ">=3.0.0"
