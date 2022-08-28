@@ -5,6 +5,11 @@ Newser - is a news aggregator designed to make it easier to view news by categor
 I tried to write a beautiful interface that would be pleasing to the eye  
 and force the user to return to the application again.
 
+
+# Stable App Version - 1.0.1 
+
+![Preview](https://i.imgur.com/kCnOUt9.png)
+
   
 ### Stack:
 Language - Dart  
