@@ -15,7 +15,7 @@ dependencies:
   news_repository:
     path: packages/news_repository
   cupertino_icons: ^1.0.2
-  dio: ^4.0.4
+  dio: ^5.2.1
   rxdart: ^0.27.3
   google_fonts: ^2.1.1
   shared_preferences: ^2.0.13
@@ -33,10 +33,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^1.10.0
+  build_runner: ^2.2.0
   json_serializable: ^6.1.3
   mocktail: ^0.2.0
-  test: ^1.16.4
+  test: ^1.22.0
   change_app_package_name: ^1.0.0
   flutter_lints: ^1.0.0
 
